@@ -1,7 +1,7 @@
 # JavaScript
 
 - [ ] Variables
-- [ ] Var
-  - - [ ] Scope
-  - - [ ] Hoisting
-  - - [ ] Redeclaration
+- - [ ] Var
+  - - - [ ] Scope
+  - - - [ ] Hoisting
+  - - - [ ] Redeclaration

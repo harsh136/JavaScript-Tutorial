@@ -7,3 +7,6 @@
   - - - [ ] Redeclaration
 - - [ ] Let
 - - [ ] Const
+- - [ ] Hoisting
+  - - - [ ] Function Declaration
+  - - - [ ] Function Expression

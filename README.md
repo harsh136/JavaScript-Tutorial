@@ -3,10 +3,11 @@
 - [ ] Variables
 - - [ ] Var
   - - - [ ] Scope
-  - - - [ ] Hoisting
+  - - - [ ] Hoisting (An overview)
   - - - [ ] Redeclaration
 - - [ ] Let
 - - [ ] Const
 - - [ ] Hoisting
   - - - [ ] Function Declaration
   - - - [ ] Function Expression
+- [ ] Variable Naming Rules

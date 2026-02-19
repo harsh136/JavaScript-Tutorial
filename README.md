@@ -6,3 +6,4 @@
   - - - [ ] Hoisting
   - - - [ ] Redeclaration
 - - [ ] Let
+- - [ ] Const

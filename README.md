@@ -5,3 +5,4 @@
   - - - [ ] Scope
   - - - [ ] Hoisting
   - - - [ ] Redeclaration
+- - [ ] Let

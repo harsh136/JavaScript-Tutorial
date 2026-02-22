@@ -11,3 +11,4 @@
   - - - [ ] Function Declaration
   - - - [ ] Function Expression
 - [ ] Variable Naming Rules
+- [ ] Variable Scope

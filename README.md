@@ -12,3 +12,6 @@
   - - - [ ] Function Expression
 - [ ] Variable Naming Rules
 - [ ] Variable Scope
+- [ ] Data-Type
+- - [ ] String
+- - - [ ] Creation

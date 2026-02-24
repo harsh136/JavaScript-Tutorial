@@ -12,7 +12,8 @@ console.log(greeting);
 // Tamplate Literals
 // they are special, we can embed code expressions directly into it by using ${}
 let tamplateLiterals = (user) => {
-  console.log(`Hello ${user}`);
+  console.log(`Hello ${user}`); // this is called string interpolation.
+  //Embedding variables or expressions directly using ${variable}
 };
 tamplateLiterals("harsh");
 

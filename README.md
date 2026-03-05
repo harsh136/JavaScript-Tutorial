@@ -15,3 +15,7 @@
 - [ ] Data-Type
 - - [ ] String
 - - - [ ] Creation
+- - - [ ] Methods
+- - - - [ ] Accessing Character
+- - - - [ ] Case Changing
+- - - - [ ] Searching Substring

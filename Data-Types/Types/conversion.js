@@ -12,24 +12,22 @@ console.log(Number(null)); // 0
 console.log(Number(undefined)); // NaN
 
 // → String
-String(123)(
-  // "123"
-  123,
-).toString(); // "123"
-String(true); // "true"
-String(null); // "null"
-String(undefined); // "undefined"
+console.log(String(123)); // "123"
+console.log((123).toString()); // "123"
+console.log(String(true)); // "true"
+console.log(String(null)); // "null"
+console.log(String(undefined)); // "undefined"
 
 // → Boolean
-Boolean(1); // true
-Boolean(0); // false
-Boolean(""); // false
-Boolean("hello"); // true
-Boolean(null); // false
-Boolean(undefined); // false
-Boolean({}); // true (objects are truthy)
-Boolean([]); // true (arrays are truthy)
+console.log(Boolean(1)); // true
+console.log(Boolean(0)); // false
+console.log(Boolean("")); // false
+console.log(Boolean("hello")); // true
+console.log(Boolean(null)); // false
+console.log(Boolean(undefined)); // false
+console.log(Boolean({})); // true (objects are truthy)
+console.log(Boolean([])); // true (arrays are truthy)
 
 // Shorthand boolean conversion (double negation)
-!!"hello"; // true
-!!0; // false
+console.log(!!"hello"); // true
+console.log(!!0); // false
